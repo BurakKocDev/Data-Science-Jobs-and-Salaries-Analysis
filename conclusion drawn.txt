@@ -1,0 +1,67 @@
+Salary Distribution by Experience Level
+This boxplot illustrates the salary distribution across different experience levels.
+
+Entry-level: Median salary around $70,000. The range is wide, with some outliers earning over $150,000.
+Mid-level: Median salary around $110,000. The distribution is more concentrated, with fewer outliers.
+Senior: Median salary around $150,000. The range is similar to mid-level, but with more higher-end outliers.
+Executive: Median salary around $200,000. The range is the widest, with significant outliers above $400,000.
+Normalized Distribution of Job Categories by Company Size and Work Setting
+This heatmap shows the normalized distribution of various job categories across different company sizes and work settings.
+
+Large companies (L): Data Science and Research jobs are more common in remote settings, while Leadership and Management jobs are more common in in-person settings.
+Medium companies (M): Machine Learning and AI roles are prominent in in-person settings, while Data Architecture and Modeling are more common in remote settings.
+Small companies (S): A higher proportion of Leadership and Management roles are seen in hybrid settings.
+Average Salary in USD by Employment Type, Work Setting, and Company Size
+These bar charts present the average salary based on different employment types, work settings, and company sizes.
+
+Employment Type:
+
+Full-time: Highest average salary (~$140,000).
+Contract: Second highest (~$100,000).
+Part-time and Freelance: Lower averages, with Freelance being the lowest (~$60,000).
+Work Setting:
+
+In-person: Highest average salary (~$150,000).
+Remote: Slightly lower (~$130,000).
+Hybrid: Lowest among the three (~$100,000).
+Company Size:
+
+Large (L): Highest average salary (~$140,000).
+Medium (M): Slightly lower (~$130,000).
+Small (S): Significantly lower (~$100,000).
+
+
+
+
+Türkçe
+Deneyim Seviyesine Göre Maaş Dağılımı
+Bu kutu grafiği, farklı deneyim seviyelerindeki maaş dağılımını göstermektedir.
+
+Giriş seviyesi: Ortalama maaş yaklaşık $70,000. Aralık geniş, bazı uç değerler $150,000'ın üzerinde.
+Orta seviye: Ortalama maaş yaklaşık $110,000. Dağılım daha yoğun, daha az uç değer var.
+Kıdemli seviye: Ortalama maaş yaklaşık $150,000. Aralık orta seviyeye benzer, ancak daha yüksek uç değerler var.
+Yönetici seviyesi: Ortalama maaş yaklaşık $200,000. Aralık en geniş, $400,000'ın üzerinde önemli uç değerler var.
+Şirket Büyüklüğü ve Çalışma Ortamına Göre İş Kategorilerinin Normalleştirilmiş Dağılımı
+Bu ısı haritası, çeşitli iş kategorilerinin farklı şirket büyüklükleri ve çalışma ortamları arasındaki normalleştirilmiş dağılımını göstermektedir.
+
+Büyük şirketler (L): Veri Bilimi ve Araştırma işleri daha çok uzaktan yapılırken, Liderlik ve Yönetim işleri daha çok yüz yüze yapılmaktadır.
+Orta şirketler (M): Makine Öğrenimi ve Yapay Zeka rolleri yüz yüze ortamlarda öne çıkarken, Veri Mimarlığı ve Modelleme daha çok uzaktan yapılmaktadır.
+Küçük şirketler (S): Karma ortamlarda daha yüksek oranda Liderlik ve Yönetim rolleri görülmektedir.
+Çalışma Türü, Çalışma Ortamı ve Şirket Büyüklüğüne Göre Ortalama Maaş (USD)
+Bu çubuk grafikler, farklı çalışma türlerine, çalışma ortamlarına ve şirket büyüklüklerine göre ortalama maaşları sunmaktadır.
+
+Çalışma Türü:
+
+Tam zamanlı: En yüksek ortalama maaş (~$140,000).
+Sözleşmeli: İkinci en yüksek (~$100,000).
+Yarı zamanlı ve Serbest: Daha düşük ortalamalar, Serbest en düşük (~$60,000).
+Çalışma Ortamı:
+
+Yüz yüze: En yüksek ortalama maaş (~$150,000).
+Uzaktan: Biraz daha düşük (~$130,000).
+Karma: Üçü arasında en düşük (~$100,000).
+Şirket Büyüklüğü:
+
+Büyük (L): En yüksek ortalama maaş (~$140,000).
+Orta (M): Biraz daha düşük (~$130,000).
+Küçük (S): Önemli ölçüde daha düşük (~$100,000).
